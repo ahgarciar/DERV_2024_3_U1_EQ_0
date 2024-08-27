@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CambioEscenas/E1_Inicio.unity
+    guid: 68888406383274cda9bc92b663aea29c
+  - enabled: 1
+    path: Assets/CambioEscenas/E2_Principal.unity
+    guid: 8b912b16efc4b4700bc83034e2f3df6f
+  - enabled: 1
+    path: Assets/CambioEscenas/E3_Fin.unity
+    guid: 9714d5c511b5b4feab96cda386b8c5fd
   m_configObjects: {}
